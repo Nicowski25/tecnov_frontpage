@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#full-bg {
+    background-image: url('./d33247fc62de5f7aabdf4590b73e6b61.jpg');
+    background-size: cover;
+    height: 100vh;
+}
+
+.title {
+    font-size: 7rem;
+}
+
+.subtitle {
+    font-size: 3.5rem;
+}
